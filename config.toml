@@ -2,6 +2,7 @@ baseURL = "https://hijanoforge.netlify.com/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hugo-theme-terminal"
+
 [params]
   contentTypeName = "post"
   themeColor = "blue"
@@ -11,8 +12,8 @@ theme = "hugo-theme-terminal"
 
 [languages]
   [languages.en]
-    title = "Terminal"
-    subtitle = "A simple, retro theme for Hugo"
+    title = "Forja de Hijano"
+    subtitle = "prueba del lugar"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
