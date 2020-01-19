@@ -2,7 +2,7 @@
 title: "Inicio"
 date: 2020-01-19T11:31:42+01:00
 draft: true
-cover: "code.jpg"
+cover: "img/code.jpg"
 ---
 
 # Bienvenidos a la forja de Hijano

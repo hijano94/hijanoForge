@@ -1,7 +1,7 @@
 +++
 title= "Prueba"
 date= "2020-01-19"
-cover= "static/img/tech.jpg"
+cover= "img/tech.jpg"
 +++
 
 # Esto es un titulo
