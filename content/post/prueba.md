@@ -2,7 +2,7 @@
 title: "Prueba"
 date: 2020-01-19T14:04:40+01:00
 draft: true
-cover = "tech.jpg"
+cover: "tech.jpg"
 ---
 
 # Esto es un titulo
