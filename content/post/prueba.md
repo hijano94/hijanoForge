@@ -19,8 +19,8 @@ Funciona el pre?
 
 ## Segunda parte
 
-[Un Enlace](google.es)
+[Un Enlace](https://www.google.es)
 
 ## Tercera parte 
 
-![Una foto](../static/img/tech.jpg)
+![Una foto](img/tech.jpg)
