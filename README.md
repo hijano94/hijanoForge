@@ -1,5 +1,2 @@
 # Forja de Hijano
-<<<<<<< HEAD
-[![Build Status](https://travis-ci.com/hijano94/hijanoForge.svg?branch=master)](https://travis-ci.com/hijano94/hijanoForge)
-=======
->>>>>>> parent of 4f14561... Update README.md
+[![Netlify Status](https://api.netlify.com/api/v1/badges/548bc756-8097-4524-8059-00e87232cded/deploy-status)](https://app.netlify.com/sites/hijanoforge/deploys)
