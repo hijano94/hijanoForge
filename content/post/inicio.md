@@ -14,3 +14,8 @@ Esto es una práctica del modulo implantación de aplicaciones web del grado sup
 3. Una
 4. Lista
 
+En el texto *negrita* **cursiva**
+
+columna1 | columna2 | columna3
+---
+campo1 | campo 2| campo3
